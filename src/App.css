@@ -1,0 +1,18 @@
+.btnbg{
+    background-color: white;
+    margin-right:10px ;
+    border-radius: 5px;
+}
+
+.adduser{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.adduser input{
+   border: none;
+   border-bottom: 1.5px solid black;
+   padding: 3px 5px ;
+   font-size: 18px;
+   outline: none;
+}
